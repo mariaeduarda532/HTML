@@ -1,4 +1,12 @@
 body { 
     color:aqua;
-    background: black;
-}
+    background: aqua;
+    margin: 0px;
+  }
+
+   header {  
+      border-bottom: solid 2px rgb(red, green, blue);
+    padding: 20px;
+    font-size: 32px;
+    color:rgb(red, green, blue);
+     }
